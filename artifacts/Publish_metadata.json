@@ -639,7 +639,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"lol.sol": "Publish"
+			"AO2.sol": "Publish"
 		},
 		"evmVersion": "osaka",
 		"libraries": {},
@@ -805,7 +805,7 @@
 				"dweb:/ipfs/QmVUSvooZKEdEdap619tcJjTLcAuH6QBdZqAzWwnAXZAWJ"
 			]
 		},
-		"lol.sol": {
+		"AO2.sol": {
 			"keccak256": "0x96deddedaae0f2d0d5566e8ab28956e27ee86b32ed305a95af0c3cd658644ae8",
 			"license": "MIT",
 			"urls": [
