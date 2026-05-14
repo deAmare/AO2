@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.34+commit.80d5c536"
+		"version": "0.8.24+commit.e11b9ed9"
 	},
 	"language": "Solidity",
 	"output": {
@@ -38,9 +38,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"lol.sol": "Sales"
+			"AO2_Rere.sol": "Sales"
 		},
-		"evmVersion": "osaka",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -204,12 +204,12 @@
 				"dweb:/ipfs/QmVUSvooZKEdEdap619tcJjTLcAuH6QBdZqAzWwnAXZAWJ"
 			]
 		},
-		"lol.sol": {
-			"keccak256": "0x96deddedaae0f2d0d5566e8ab28956e27ee86b32ed305a95af0c3cd658644ae8",
+		"AO2_Rere.sol": {
+			"keccak256": "0x3057129bc1f49bfe1f7bad416554a8f61b107c42a640b5626b6e46c056e95364",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0671b8a66cabd463ad9a2011f1893ae1c8853118b88cc7ae8f8e7f2fe0e0ce45",
-				"dweb:/ipfs/Qmau9t7y1CWzVTudWNqrKCLmSATbtWaGrFekUD4nfSuuAt"
+				"bzz-raw://b6e8346767bbd5926ce5f3287bede5b7711167d56d6e39230e91c566ff46957d",
+				"dweb:/ipfs/QmbbyHgGpo9aTknNnYYCjTknUZ61Z5tRZWLb9Qxwxox3gh"
 			]
 		}
 	},
